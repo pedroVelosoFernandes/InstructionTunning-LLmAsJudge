@@ -1,0 +1,1202 @@
+[
+  {
+    "instruction": "What is the capital of Mexico?",
+    "input": "",
+    "output": "The capital of Mexico is Mexico City.",
+    "model small response": "The capital of Mexico is Mexico City."
+  },
+  {
+    "instruction": "Calculate the area of a triangle with base 10 meters and height 5 meters.",
+    "input": "",
+    "output": "The area of the triangle is 25 square meters.",
+    "model small response": "The area of a triangle with base 10 meters is 8.5 meters."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "sharply ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "seem fresh ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "HP shares tumble on profit news Hewlett-Packard shares fall after disappointing third-quarter profits, while the firm warns the final quarter will also fall short of expectations.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Rewrite the sentence in future perfect tense.",
+    "input": "They will complete the project.",
+    "output": "They will have completed the project.",
+    "model small response": "The project will be completed."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Insurers Begin Tallying Charley Losses (Reuters) Reuters - U.S. insurers on Monday predicted that\\Hurricane Charley could be the most costly U.S. storm since\\Andrew in 1992, with Florida officials initially estimating\\economic losses at  #36;15 billion.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "What is the capital of Brazil?",
+    "input": "",
+    "output": "The capital of Brazil is Brasília.",
+    "model small response": "The capital of Brazil is Rio de Janeiro."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Phelps, Thorpe Advance in 200 Freestyle ATHENS, Greece - Michael Phelps took care of qualifying for the Olympic 200-meter freestyle semifinals Sunday, and then found out he had been added to the American team for the evening's 400 freestyle relay final. Phelps' rivals Ian Thorpe and Pieter van den Hoogenband and teammate Klete Keller were faster than the teenager in the 200 free preliminaries...",
+    "output": "World",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "Convert the following number from Roman numerals: IX.",
+    "input": "",
+    "output": "The number IX in Roman numerals is 9.",
+    "model small response": "5 to English numbers: 1.5.\n\n\nThe Roman numeral for 'one' is 'I'."
+  },
+  {
+    "instruction": "List 5 different types of fruits",
+    "input": "",
+    "output": "1. Apple\n2. Banana\n3. Orange\n4. Strawberry\n5. Mango",
+    "model small response": ".\n\n\n5. Pear, Banana, Grape, Apple, and Strawberry."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Explosions Echo Throughout Najaf NAJAF, Iraq - U.S. tanks and troops rolled back into the center of Najaf and battled with Shiite militants Sunday, reigniting violence in the holy city just as delegates in Baghdad opened a conference meant to be a landmark in the country's movement toward democracy...",
+    "output": "World",
+    "model small response": "World"
+  },
+  {
+    "instruction": "Translate 'hello' into Japanese.",
+    "input": "",
+    "output": "The Japanese translation of 'hello' is 'こんにちは' (Konnichiwa).",
+    "model small response": "The Japanese translation of 'hello' is 'hana'."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "FDA Warns of Terrorist Prescription Drug Tampering By DIEDTRA HENDERSON     WASHINGTON (AP) -- \"Cues from chatter\" gathered around the world are raising concerns that terrorists might try to attack the domestic food and drug supply, particularly illegally imported prescription drugs, acting Food and Drug Administration Commissioner Lester M. Crawford says...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "clotted with heavy-handed symbolism , dime-store psychology and endless scenic shots that make 105 minutes seem twice as long ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "European Download Services Go Mobile (Reuters) Reuters - The ability to download complete\\tracks directly over cell-phone networks to mobile phones is\\becoming a reality in Europe.",
+    "output": "Science/Technology",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "'s remarkable procession of sweeping pictures that have reinvigorated the romance genre . ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "underdeveloped ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Convert this declarative sentence into a command: 'You should check the report.'",
+    "input": "",
+    "output": "Check the report.",
+    "model small response": "You should check the report."
+  },
+  {
+    "instruction": "Rewrite the following sentence to remove redundancy.",
+    "input": "The actual fact is that he was late.",
+    "output": "The fact is that he was late.",
+    "model small response": "The actual fact is that he was late."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Growth, Mortality of T. Rex Gets Clearer (AP) AP - Here's a dinosaur finding that parents can appreciate: The teenage Tyrannosaurus rex typically went through an explosive growth spurt, gaining nearly 5 pounds a day.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "What's in a Name? Well, Matt Is Sexier Than Paul (Reuters) Reuters - As Shakespeare said, a rose by any other\\name would smell as sweet. Right?",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "New Clot Preventer Saves Lives and Money By Ed Edelson, HealthDay Reporter    HealthDayNews -- A new anti-clotting drug for people having artery-opening procedures lowers the rate of complications, gets patients out of the hospital faster, and probably saves lives, a study finds.    And it saves money to boot, says Dr...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "that uses a sensational , real-life 19th-century crime as a metaphor for ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "What is the chemical formula for ammonium nitrate?",
+    "input": "",
+    "output": "The chemical formula for ammonium nitrate is NH4NO3.",
+    "model small response": "The chemical formula for ammonium nitrate is HNO3."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Olympics-Doping-Greek Media Put Country's Honor Above Athletes  ATHENS (Reuters) - The honor of Greece lies above  individual athletes and no backstage antics should compromise  it, Greek media said Sunday, after the country's top athletes  were suspended from the team under a cloud of doping suspicion.",
+    "output": "Sports",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Two Chinese salesman gunned down in Thailand's restive south (AFP) AFP - Two Chinese travelling salesmen have been gunned down in southern Thailand as part of separatist violence which has claimed more than 275 lives since the start of the year, officials said.",
+    "output": "World",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Thorpe leads big guns Ian Thorpe sets the fastest time in the 200m freestyle as swimming's top names cruise into the semi-finals.",
+    "output": "World",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "What is an antonym of 'simplify'?",
+    "input": "",
+    "output": "An antonym of 'simplify' is 'complicate.'",
+    "model small response": "An antonym of 'simplify' is 'simplify'."
+  },
+  {
+    "instruction": "What is the capital of India?",
+    "input": "",
+    "output": "The capital of India is New Delhi.",
+    "model small response": "The capital of India is New Delhi."
+  },
+  {
+    "instruction": "Explain the function of the respiratory system in humans.",
+    "input": "",
+    "output": "The respiratory system's primary function is to supply the blood with oxygen through breathing and to remove carbon dioxide. It includes the nose, throat, larynx, trachea, bronchi, and lungs.",
+    "model small response": "The respiratory system is a system of organs, muscles, and fluids that supplies oxygen to the body. It is composed of the lungs, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "enthralling ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "has the thrown-together feel of a summer-camp talent show : hastily written , underrehearsed , arbitrarily plotted and ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Rewrite the following sentence to include a personification.",
+    "input": "The wind is very strong today.",
+    "output": "The wind howls with might today, as if declaring its presence.",
+    "model small response": "The wind is very strong today."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "3D holograms to crack forgeries A 3D hologram technique could transform how experts spot forged signatures and other handwritten documents.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Customers of Telco Companies Face Privacy Breach A security advisory posted on Bugtraq demonstrates how hackers can compromise customers of T-mobile wireless and Verizon (landline) voicemail boxes. The advisory talks about the use of Caller-ID spoofing the customers number, allowing a bypass of the PIN code since the voicemail thinks that the customer is calling to check their own voicemail. According to Secure Science Corporation, there has been no response from the vendors. Comments have been posted that T-Mobile has optional PIN code protection off by default. Better turn it on. ",
+    "output": "Science/Technology",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Briefly: AOL kicks off free fantasy sports roundup Plus: HP partners with 3G gear maker...AMD starts shipping 90-nanometer chips...ABC.com to air on Real's SuperPass.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "is , arguably , the most accomplished work to date from hong kong 's versatile stanley kwan . ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "believe it or not , jason actually takes a backseat in his own film to special effects ",
+    "output": "negative",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "stiff or just plain bad ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Wherenet adds biz rules to RFID The first indication that the value of RFID (radio frequency identification) will extend beyond the supply warehouse was shown last week by WhereNet, a provider of wireless location and communications technology.",
+    "output": "Science/Technology",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "maybe it is formula filmmaking , but there 's nothing wrong with that if the film is well-crafted and this one is . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Apple Introduces Production Suite Production Suite, essential software suite for film and video that delivers real-time production tools in one comprehensive and integrated package, combines Final Cut Pro HD, Motion and DVD Studio Pro 3. Production Suite is available now for a suggested retail price of \\$1,299. Aug 10",
+    "output": "Science/Technology",
+    "model small response": ", 2015"
+  },
+  {
+    "instruction": "Convert the following statement into a question.",
+    "input": "She is going to the market.",
+    "output": "Is she going to the market?",
+    "model small response": "She is going to the market."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Afghans Hail Chance for a Choice BAZARAK, Afghanistan&lt;br&gt;Like virtually every adult in this Panjshir Valley village, Rahmal Beg registered to vote weeks ago. Indeed, popular enthusiasm is so high for the Oct. 9 presidential election -- the first in Afghan history -- that thousands of people in the valley have reportedly...",
+    "output": "World",
+    "model small response": "World"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "the film is filled with humorous observations about the general absurdity of modern life as seen through the eyes outsiders , but deftly manages to avoid many of the condescending stereotypes that so often plague films dealing with the mentally ill ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "tackles the difficult subject of grief and loss ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "insistent and repetitive ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Scientists Probe Pacific for Dead Zone (AP) AP - His hand on a toggle switch and his eyes on a computer screen, Oregon State University graduate student Anthony Kirincich uses an array of scientific instruments to probe the vibrant waters of the Pacific. He is searching for the absence of life.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Progress Is Made Battling Strep Germ By LINDSEY TANNER     CHICAGO (AP) -- Scientists say they are making headway in developing a vaccine against a common strep germ, the cause of millions of sore throats as well as a deadly but uncommon flesh-eating disease.    A test of an experimental vaccine in just 28 people prompted an immune response with no serious side effects, but it's still not known if the shot would keep people from catching the strep germ...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "a showdown ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Canada must help raise profile of development issues in Africa: Goodale (Canadian Press) Canadian Press - OTTAWA (CP) - Canada intends to return to the forefront on African development issues, beginning with a renewed effort at helping the troubled continent grow out of poverty, says Finance Minister Ralph Goodale.",
+    "output": "World",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "What is the boiling point of mercury in Fahrenheit?",
+    "input": "",
+    "output": "The boiling point of mercury is 674 degrees Fahrenheit.",
+    "model small response": "The boiling point of mercury is approximately 273.15 degrees Celsius."
+  },
+  {
+    "instruction": "Explain what a haiku is.",
+    "input": "",
+    "output": "A haiku is a form of traditional Japanese poetry that consists of three lines with a syllable pattern of 5-7-5.",
+    "model small response": "A poem that begins with a haiku."
+  },
+  {
+    "instruction": "Translate 'My name is John' into Spanish.",
+    "input": "",
+    "output": "Mi nombre es John.",
+    "model small response": "My name is John."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Japanese Lunar Probe Mission Facing Delays TOKYO (AP) -- A lunar orbiter that Japan had planned to launch this year could face further delays, possibly until next year or later, because of a funding shortfall and problems developing the probe's information-gathering capabilities, Japan's space agency said Wednesday.    The Japan Aerospace Exploration Agency, or JAXA, released a report to a government-run commission explaining expected delays to the launch of the \\$135 million Lunar-A probe...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "like most of jaglom 's films , some of it is honestly affecting ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "schaeffer is n't in this film , which may be why it works as well as it does . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "irritates and ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "What is the contraction for 'they will'?",
+    "input": "",
+    "output": "The contraction for 'they will' is 'they'll.'",
+    "model small response": "The contraction for 'they will' is 'they will'."
+  },
+  {
+    "instruction": "What is the boiling point of propane in Celsius?",
+    "input": "",
+    "output": "The boiling point of propane is -42 degrees Celsius.",
+    "model small response": "The boiling point of propane is approximately 273.8 degrees Celsius."
+  },
+  {
+    "instruction": "Rewrite the sentence using a simile.",
+    "input": "She is very fast.",
+    "output": "She is as fast as a cheetah.",
+    "model small response": "She is very fast."
+  },
+  {
+    "instruction": "What is an antonym of 'external'?",
+    "input": "",
+    "output": "An antonym of 'external' is 'internal'.",
+    "model small response": "An antonym of 'external' is 'internal'."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "many pleasures ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "to the enduring strengths of women ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Stocks Set to Open Little Changed  NEW YORK (Reuters) - Wall Street is set to open little  changed on Monday as crude prices remain near their record  highs, but insurers may slip on worries about their potential  liabilities after a hurricane struck Florida on Friday.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "the type of film about growing up that we do n't see often enough these days : realistic , urgent ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "TB test to slash infection rates A rapid and accurate test for TB could cut infection rates around the world, say experts.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Describe the process of active transport in cells.",
+    "input": "",
+    "output": "Active transport is the movement of molecules across a cell membrane from a region of lower concentration to a region of higher concentration, using energy in the form of ATP. This process is crucial for maintaining cellular homeostasis.",
+    "model small response": "Transport is the process of moving a substance through a medium."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Catwoman far from perfect The Catwoman game is a major disappointment that feels like a pointless tie-in with the film.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Identify the type of triangle with angles of 90 degrees, 45 degrees, and 45 degrees.",
+    "input": "",
+    "output": "A triangle with angles of 90 degrees, 45 degrees, and 45 degrees is a right isosceles triangle.",
+    "model small response": "A triangle with angles of 90 degrees, 45 degrees, and 45 degrees."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Dollar Falls Broadly on Record Trade Gap  NEW YORK (Reuters) - The dollar tumbled broadly on Friday  after data showing a record U.S. trade deficit in June cast  fresh doubts on the economy's recovery and its ability to draw  foreign capital to fund the growing gap.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Translate 'They are reading books' into Spanish.",
+    "input": "",
+    "output": "Están leyendo libros.",
+    "model small response": "They are reading books."
+  },
+  {
+    "instruction": "Classify the following into animals, plants, and metals.",
+    "input": "Rose, gold, cat",
+    "output": "Animals: Cat\nPlants: Rose\nMetals: Gold",
+    "model small response": "Animals:\nCats\n\nPlants:\nArgonian\n\n\nArgonian is a language spoken by the Argonians."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "was produced by jerry bruckheimer and directed by joel schumacher , and reflects the worst of their shallow styles : wildly overproduced , inadequately motivated every step of the way and demographically targeted to please every one ( and no one ) ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "unique directing style ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "i have ever seen , constantly pulling the rug from underneath us , seeing things from new sides , plunging deeper , getting more intense . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Calculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.",
+    "input": "",
+    "output": "The density of the object is 3 grams per cubic centimeter.",
+    "model small response": "The density of an object with a mass of 15 grams is 15 grams/cm3."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "halfway through this picture i was beginning to hate it ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "What is the chemical formula for glucose?",
+    "input": "",
+    "output": "The chemical formula for glucose is C6H12O6.",
+    "model small response": "The chemical formula for glucose is HCl."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "does n't bode well for the rest of it ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "elevated by it -- the kind of movie ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "cinema history as the only movie ever ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "somehow snagged an oscar nomination ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Pronger opts out of World Cup Names Chris Pronger of the St. Louis Blues pulled out of the World Cup of Hockey yesterday with an undisclosed injury, and was replaced on the Canadian team by Jay Bouwmeester of the Florida Panthers. Pronger's decision comes less than a week before the Canadian team opens training camp. The team will practice for the first time Friday in Ottawa. ...",
+    "output": "Sports",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "Fill in the blanks with appropriate words.",
+    "input": "The sky was filled with colorful ________ at sunrise.",
+    "output": "The sky was filled with colorful hues at sunrise.",
+    "model small response": "The sky was filled with ________ at sunrise."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "GAO Calls Stryker Too Heavy for Transport The Army's new medium-weight armored vehicle, the Stryker, weighs so much that it curtails the range of C-130 military cargo aircraft that carry it and under certain conditions make it impossible for the planes to take off, a new report for Congress found.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Bombs explode at Nepal luxury hotel, no casualties (Reuters) Reuters - A man on a bicycle threw at least four bombs into the compound of a luxury hotel in Nepal's capital on Monday but the blasts caused no casualties, authorities said.",
+    "output": "World",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "another entertaining romp from robert rodriguez . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Rewrite the sentence using a simile.",
+    "input": "The room was very hot.",
+    "output": "The room was as hot as an oven.",
+    "model small response": "The room was very hot."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Report: Los Alamos lab needs better hardware inventory In a report this week, the U.S. Department of Energy said inventory controls at the Los Alamos National Laboratory were not robust enough, and some computers were never entered into the lab's inventory database.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Stocks Higher on Oil Price Relief (Reuters) Reuters - U.S. stocks gained on Monday, getting\\a boost from lower oil prices after news the Venezuelan\\president survived a recall eased fears about the country's oil\\exports.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "What is the past participle of 'run'?",
+    "input": "",
+    "output": "The past participle of 'run' is 'run'.",
+    "model small response": "The past participle of 'run' is 'run.'"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "alternating between facetious comic parody and pulp melodrama , this smart-aleck movie ... tosses around some intriguing questions about the difference between human and android life ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Microsoft's blast from the past A year after the MSBlast worm, the software giant releases SP2 for Windows XP. Would it have stopped the fast-spreading virus?",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Eurozone economy keeps growing Official figures show the 12-nation eurozone economy continues to grow, but there are warnings it may slow down later in the year.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Rewrite the sentence.",
+    "input": "The lecture was delivered in a clear manner.",
+    "output": "The lecture was delivered clearly.",
+    "model small response": "The lecture was delivered in a clear manner."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "though many of these guys are less than adorable ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Autodesk tackles project collaboration Autodesk  this week unwrapped an updated version of its hosted project collaboration service targeted at the construction and manufacturing industries. Autodesk Buzzsaw lets multiple, dispersed project participants -- including building owners, developers, architects, construction teams, and facility managers -- share and manage data throughout the life of a project, according to Autodesk officials.",
+    "output": "Business",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Split the following sentence into two declarative sentences: \"The book is interesting but the cover is dull\".",
+    "input": "",
+    "output": "The book is interesting.\nThe cover is dull.",
+    "model small response": "### Input:\nThe book is interesting but the cover is dull.\n\n\nThe book is interesting but the cover is dull."
+  },
+  {
+    "instruction": "What is the capital of Mexico?",
+    "input": "",
+    "output": "The capital of Mexico is Mexico City.",
+    "model small response": "The capital of Mexico is Mexico City."
+  },
+  {
+    "instruction": "Calculate the area of a triangle with base 10 meters and height 5 meters.",
+    "input": "",
+    "output": "The area of the triangle is 25 square meters.",
+    "model small response": "The area of a triangle with base 10 meters is 8.5 meters."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "sharply ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "seem fresh ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "HP shares tumble on profit news Hewlett-Packard shares fall after disappointing third-quarter profits, while the firm warns the final quarter will also fall short of expectations.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Rewrite the sentence in future perfect tense.",
+    "input": "They will complete the project.",
+    "output": "They will have completed the project.",
+    "model small response": "The project will be completed."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Insurers Begin Tallying Charley Losses (Reuters) Reuters - U.S. insurers on Monday predicted that\\Hurricane Charley could be the most costly U.S. storm since\\Andrew in 1992, with Florida officials initially estimating\\economic losses at  #36;15 billion.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "What is the capital of Brazil?",
+    "input": "",
+    "output": "The capital of Brazil is Brasília.",
+    "model small response": "The capital of Brazil is Rio de Janeiro."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Phelps, Thorpe Advance in 200 Freestyle ATHENS, Greece - Michael Phelps took care of qualifying for the Olympic 200-meter freestyle semifinals Sunday, and then found out he had been added to the American team for the evening's 400 freestyle relay final. Phelps' rivals Ian Thorpe and Pieter van den Hoogenband and teammate Klete Keller were faster than the teenager in the 200 free preliminaries...",
+    "output": "World",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "Convert the following number from Roman numerals: IX.",
+    "input": "",
+    "output": "The number IX in Roman numerals is 9.",
+    "model small response": "5 to English numbers: 1.5.\n\n\nThe Roman numeral for 'one' is 'I'."
+  },
+  {
+    "instruction": "List 5 different types of fruits",
+    "input": "",
+    "output": "1. Apple\n2. Banana\n3. Orange\n4. Strawberry\n5. Mango",
+    "model small response": ".\n\n\n5. Pear, Banana, Grape, Apple, and Strawberry."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Explosions Echo Throughout Najaf NAJAF, Iraq - U.S. tanks and troops rolled back into the center of Najaf and battled with Shiite militants Sunday, reigniting violence in the holy city just as delegates in Baghdad opened a conference meant to be a landmark in the country's movement toward democracy...",
+    "output": "World",
+    "model small response": "World"
+  },
+  {
+    "instruction": "Translate 'hello' into Japanese.",
+    "input": "",
+    "output": "The Japanese translation of 'hello' is 'こんにちは' (Konnichiwa).",
+    "model small response": "The Japanese translation of 'hello' is 'hana'."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "FDA Warns of Terrorist Prescription Drug Tampering By DIEDTRA HENDERSON     WASHINGTON (AP) -- \"Cues from chatter\" gathered around the world are raising concerns that terrorists might try to attack the domestic food and drug supply, particularly illegally imported prescription drugs, acting Food and Drug Administration Commissioner Lester M. Crawford says...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "clotted with heavy-handed symbolism , dime-store psychology and endless scenic shots that make 105 minutes seem twice as long ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "European Download Services Go Mobile (Reuters) Reuters - The ability to download complete\\tracks directly over cell-phone networks to mobile phones is\\becoming a reality in Europe.",
+    "output": "Science/Technology",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "'s remarkable procession of sweeping pictures that have reinvigorated the romance genre . ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "underdeveloped ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Convert this declarative sentence into a command: 'You should check the report.'",
+    "input": "",
+    "output": "Check the report.",
+    "model small response": "You should check the report."
+  },
+  {
+    "instruction": "Rewrite the following sentence to remove redundancy.",
+    "input": "The actual fact is that he was late.",
+    "output": "The fact is that he was late.",
+    "model small response": "The actual fact is that he was late."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Growth, Mortality of T. Rex Gets Clearer (AP) AP - Here's a dinosaur finding that parents can appreciate: The teenage Tyrannosaurus rex typically went through an explosive growth spurt, gaining nearly 5 pounds a day.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "What's in a Name? Well, Matt Is Sexier Than Paul (Reuters) Reuters - As Shakespeare said, a rose by any other\\name would smell as sweet. Right?",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "New Clot Preventer Saves Lives and Money By Ed Edelson, HealthDay Reporter    HealthDayNews -- A new anti-clotting drug for people having artery-opening procedures lowers the rate of complications, gets patients out of the hospital faster, and probably saves lives, a study finds.    And it saves money to boot, says Dr...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "that uses a sensational , real-life 19th-century crime as a metaphor for ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "What is the chemical formula for ammonium nitrate?",
+    "input": "",
+    "output": "The chemical formula for ammonium nitrate is NH4NO3.",
+    "model small response": "The chemical formula for ammonium nitrate is HNO3."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Olympics-Doping-Greek Media Put Country's Honor Above Athletes  ATHENS (Reuters) - The honor of Greece lies above  individual athletes and no backstage antics should compromise  it, Greek media said Sunday, after the country's top athletes  were suspended from the team under a cloud of doping suspicion.",
+    "output": "Sports",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Two Chinese salesman gunned down in Thailand's restive south (AFP) AFP - Two Chinese travelling salesmen have been gunned down in southern Thailand as part of separatist violence which has claimed more than 275 lives since the start of the year, officials said.",
+    "output": "World",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Thorpe leads big guns Ian Thorpe sets the fastest time in the 200m freestyle as swimming's top names cruise into the semi-finals.",
+    "output": "World",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "What is an antonym of 'simplify'?",
+    "input": "",
+    "output": "An antonym of 'simplify' is 'complicate.'",
+    "model small response": "An antonym of 'simplify' is 'simplify'."
+  },
+  {
+    "instruction": "What is the capital of India?",
+    "input": "",
+    "output": "The capital of India is New Delhi.",
+    "model small response": "The capital of India is New Delhi."
+  },
+  {
+    "instruction": "Explain the function of the respiratory system in humans.",
+    "input": "",
+    "output": "The respiratory system's primary function is to supply the blood with oxygen through breathing and to remove carbon dioxide. It includes the nose, throat, larynx, trachea, bronchi, and lungs.",
+    "model small response": "The respiratory system is a system of organs, muscles, and fluids that supplies oxygen to the body. It is composed of the lungs, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small intestine, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "enthralling ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "has the thrown-together feel of a summer-camp talent show : hastily written , underrehearsed , arbitrarily plotted and ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Rewrite the following sentence to include a personification.",
+    "input": "The wind is very strong today.",
+    "output": "The wind howls with might today, as if declaring its presence.",
+    "model small response": "The wind is very strong today."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "3D holograms to crack forgeries A 3D hologram technique could transform how experts spot forged signatures and other handwritten documents.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Customers of Telco Companies Face Privacy Breach A security advisory posted on Bugtraq demonstrates how hackers can compromise customers of T-mobile wireless and Verizon (landline) voicemail boxes. The advisory talks about the use of Caller-ID spoofing the customers number, allowing a bypass of the PIN code since the voicemail thinks that the customer is calling to check their own voicemail. According to Secure Science Corporation, there has been no response from the vendors. Comments have been posted that T-Mobile has optional PIN code protection off by default. Better turn it on. ",
+    "output": "Science/Technology",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Briefly: AOL kicks off free fantasy sports roundup Plus: HP partners with 3G gear maker...AMD starts shipping 90-nanometer chips...ABC.com to air on Real's SuperPass.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "is , arguably , the most accomplished work to date from hong kong 's versatile stanley kwan . ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "believe it or not , jason actually takes a backseat in his own film to special effects ",
+    "output": "negative",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "stiff or just plain bad ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Wherenet adds biz rules to RFID The first indication that the value of RFID (radio frequency identification) will extend beyond the supply warehouse was shown last week by WhereNet, a provider of wireless location and communications technology.",
+    "output": "Science/Technology",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "maybe it is formula filmmaking , but there 's nothing wrong with that if the film is well-crafted and this one is . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Apple Introduces Production Suite Production Suite, essential software suite for film and video that delivers real-time production tools in one comprehensive and integrated package, combines Final Cut Pro HD, Motion and DVD Studio Pro 3. Production Suite is available now for a suggested retail price of \\$1,299. Aug 10",
+    "output": "Science/Technology",
+    "model small response": ", 2015"
+  },
+  {
+    "instruction": "Convert the following statement into a question.",
+    "input": "She is going to the market.",
+    "output": "Is she going to the market?",
+    "model small response": "She is going to the market."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Afghans Hail Chance for a Choice BAZARAK, Afghanistan&lt;br&gt;Like virtually every adult in this Panjshir Valley village, Rahmal Beg registered to vote weeks ago. Indeed, popular enthusiasm is so high for the Oct. 9 presidential election -- the first in Afghan history -- that thousands of people in the valley have reportedly...",
+    "output": "World",
+    "model small response": "World"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "the film is filled with humorous observations about the general absurdity of modern life as seen through the eyes outsiders , but deftly manages to avoid many of the condescending stereotypes that so often plague films dealing with the mentally ill ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "tackles the difficult subject of grief and loss ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "insistent and repetitive ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Scientists Probe Pacific for Dead Zone (AP) AP - His hand on a toggle switch and his eyes on a computer screen, Oregon State University graduate student Anthony Kirincich uses an array of scientific instruments to probe the vibrant waters of the Pacific. He is searching for the absence of life.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Progress Is Made Battling Strep Germ By LINDSEY TANNER     CHICAGO (AP) -- Scientists say they are making headway in developing a vaccine against a common strep germ, the cause of millions of sore throats as well as a deadly but uncommon flesh-eating disease.    A test of an experimental vaccine in just 28 people prompted an immune response with no serious side effects, but it's still not known if the shot would keep people from catching the strep germ...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "a showdown ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Canada must help raise profile of development issues in Africa: Goodale (Canadian Press) Canadian Press - OTTAWA (CP) - Canada intends to return to the forefront on African development issues, beginning with a renewed effort at helping the troubled continent grow out of poverty, says Finance Minister Ralph Goodale.",
+    "output": "World",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "What is the boiling point of mercury in Fahrenheit?",
+    "input": "",
+    "output": "The boiling point of mercury is 674 degrees Fahrenheit.",
+    "model small response": "The boiling point of mercury is approximately 273.15 degrees Celsius."
+  },
+  {
+    "instruction": "Explain what a haiku is.",
+    "input": "",
+    "output": "A haiku is a form of traditional Japanese poetry that consists of three lines with a syllable pattern of 5-7-5.",
+    "model small response": "A poem that begins with a haiku."
+  },
+  {
+    "instruction": "Translate 'My name is John' into Spanish.",
+    "input": "",
+    "output": "Mi nombre es John.",
+    "model small response": "My name is John."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Japanese Lunar Probe Mission Facing Delays TOKYO (AP) -- A lunar orbiter that Japan had planned to launch this year could face further delays, possibly until next year or later, because of a funding shortfall and problems developing the probe's information-gathering capabilities, Japan's space agency said Wednesday.    The Japan Aerospace Exploration Agency, or JAXA, released a report to a government-run commission explaining expected delays to the launch of the \\$135 million Lunar-A probe...",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "like most of jaglom 's films , some of it is honestly affecting ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "schaeffer is n't in this film , which may be why it works as well as it does . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "irritates and ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "What is the contraction for 'they will'?",
+    "input": "",
+    "output": "The contraction for 'they will' is 'they'll.'",
+    "model small response": "The contraction for 'they will' is 'they will'."
+  },
+  {
+    "instruction": "What is the boiling point of propane in Celsius?",
+    "input": "",
+    "output": "The boiling point of propane is -42 degrees Celsius.",
+    "model small response": "The boiling point of propane is approximately 273.8 degrees Celsius."
+  },
+  {
+    "instruction": "Rewrite the sentence using a simile.",
+    "input": "She is very fast.",
+    "output": "She is as fast as a cheetah.",
+    "model small response": "She is very fast."
+  },
+  {
+    "instruction": "What is an antonym of 'external'?",
+    "input": "",
+    "output": "An antonym of 'external' is 'internal'.",
+    "model small response": "An antonym of 'external' is 'internal'."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "many pleasures ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "to the enduring strengths of women ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Stocks Set to Open Little Changed  NEW YORK (Reuters) - Wall Street is set to open little  changed on Monday as crude prices remain near their record  highs, but insurers may slip on worries about their potential  liabilities after a hurricane struck Florida on Friday.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "the type of film about growing up that we do n't see often enough these days : realistic , urgent ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "TB test to slash infection rates A rapid and accurate test for TB could cut infection rates around the world, say experts.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Describe the process of active transport in cells.",
+    "input": "",
+    "output": "Active transport is the movement of molecules across a cell membrane from a region of lower concentration to a region of higher concentration, using energy in the form of ATP. This process is crucial for maintaining cellular homeostasis.",
+    "model small response": "Transport is the process of moving a substance through a medium."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Catwoman far from perfect The Catwoman game is a major disappointment that feels like a pointless tie-in with the film.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Identify the type of triangle with angles of 90 degrees, 45 degrees, and 45 degrees.",
+    "input": "",
+    "output": "A triangle with angles of 90 degrees, 45 degrees, and 45 degrees is a right isosceles triangle.",
+    "model small response": "A triangle with angles of 90 degrees, 45 degrees, and 45 degrees."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Dollar Falls Broadly on Record Trade Gap  NEW YORK (Reuters) - The dollar tumbled broadly on Friday  after data showing a record U.S. trade deficit in June cast  fresh doubts on the economy's recovery and its ability to draw  foreign capital to fund the growing gap.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Translate 'They are reading books' into Spanish.",
+    "input": "",
+    "output": "Están leyendo libros.",
+    "model small response": "They are reading books."
+  },
+  {
+    "instruction": "Classify the following into animals, plants, and metals.",
+    "input": "Rose, gold, cat",
+    "output": "Animals: Cat\nPlants: Rose\nMetals: Gold",
+    "model small response": "Animals:\nCats\n\nPlants:\nArgonian\n\n\nArgonian is a language spoken by the Argonians."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "was produced by jerry bruckheimer and directed by joel schumacher , and reflects the worst of their shallow styles : wildly overproduced , inadequately motivated every step of the way and demographically targeted to please every one ( and no one ) ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "unique directing style ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "i have ever seen , constantly pulling the rug from underneath us , seeing things from new sides , plunging deeper , getting more intense . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Calculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.",
+    "input": "",
+    "output": "The density of the object is 3 grams per cubic centimeter.",
+    "model small response": "The density of an object with a mass of 15 grams is 15 grams/cm3."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "halfway through this picture i was beginning to hate it ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "What is the chemical formula for glucose?",
+    "input": "",
+    "output": "The chemical formula for glucose is C6H12O6.",
+    "model small response": "The chemical formula for glucose is HCl."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "does n't bode well for the rest of it ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "elevated by it -- the kind of movie ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "cinema history as the only movie ever ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "somehow snagged an oscar nomination ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Pronger opts out of World Cup Names Chris Pronger of the St. Louis Blues pulled out of the World Cup of Hockey yesterday with an undisclosed injury, and was replaced on the Canadian team by Jay Bouwmeester of the Florida Panthers. Pronger's decision comes less than a week before the Canadian team opens training camp. The team will practice for the first time Friday in Ottawa. ...",
+    "output": "Sports",
+    "model small response": "Sports"
+  },
+  {
+    "instruction": "Fill in the blanks with appropriate words.",
+    "input": "The sky was filled with colorful ________ at sunrise.",
+    "output": "The sky was filled with colorful hues at sunrise.",
+    "model small response": "The sky was filled with ________ at sunrise."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "GAO Calls Stryker Too Heavy for Transport The Army's new medium-weight armored vehicle, the Stryker, weighs so much that it curtails the range of C-130 military cargo aircraft that carry it and under certain conditions make it impossible for the planes to take off, a new report for Congress found.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Bombs explode at Nepal luxury hotel, no casualties (Reuters) Reuters - A man on a bicycle threw at least four bombs into the compound of a luxury hotel in Nepal's capital on Monday but the blasts caused no casualties, authorities said.",
+    "output": "World",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "another entertaining romp from robert rodriguez . ",
+    "output": "positive",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Rewrite the sentence using a simile.",
+    "input": "The room was very hot.",
+    "output": "The room was as hot as an oven.",
+    "model small response": "The room was very hot."
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Report: Los Alamos lab needs better hardware inventory In a report this week, the U.S. Department of Energy said inventory controls at the Los Alamos National Laboratory were not robust enough, and some computers were never entered into the lab's inventory database.",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Stocks Higher on Oil Price Relief (Reuters) Reuters - U.S. stocks gained on Monday, getting\\a boost from lower oil prices after news the Venezuelan\\president survived a recall eased fears about the country's oil\\exports.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "What is the past participle of 'run'?",
+    "input": "",
+    "output": "The past participle of 'run' is 'run'.",
+    "model small response": "The past participle of 'run' is 'run.'"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "alternating between facetious comic parody and pulp melodrama , this smart-aleck movie ... tosses around some intriguing questions about the difference between human and android life ",
+    "output": "positive",
+    "model small response": "positive"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Microsoft's blast from the past A year after the MSBlast worm, the software giant releases SP2 for Windows XP. Would it have stopped the fast-spreading virus?",
+    "output": "Science/Technology",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Eurozone economy keeps growing Official figures show the 12-nation eurozone economy continues to grow, but there are warnings it may slow down later in the year.",
+    "output": "Business",
+    "model small response": "Business"
+  },
+  {
+    "instruction": "Rewrite the sentence.",
+    "input": "The lecture was delivered in a clear manner.",
+    "output": "The lecture was delivered clearly.",
+    "model small response": "The lecture was delivered in a clear manner."
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence as positive or negative.",
+    "input": "though many of these guys are less than adorable ",
+    "output": "negative",
+    "model small response": "negative"
+  },
+  {
+    "instruction": "Classify the news topic into: World, Sports, Business or Science/Technology.",
+    "input": "Autodesk tackles project collaboration Autodesk  this week unwrapped an updated version of its hosted project collaboration service targeted at the construction and manufacturing industries. Autodesk Buzzsaw lets multiple, dispersed project participants -- including building owners, developers, architects, construction teams, and facility managers -- share and manage data throughout the life of a project, according to Autodesk officials.",
+    "output": "Business",
+    "model small response": "Science/Technology"
+  },
+  {
+    "instruction": "Split the following sentence into two declarative sentences: \"The book is interesting but the cover is dull\".",
+    "input": "",
+    "output": "The book is interesting.\nThe cover is dull.",
+    "model small response": "### Input:\nThe book is interesting but the cover is dull.\n\n\nThe book is interesting but the cover is dull."
+  }
+]
