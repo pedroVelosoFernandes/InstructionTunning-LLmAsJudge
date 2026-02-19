@@ -245,6 +245,18 @@ O modelo Full dominou completamente o modelo Base, vencendo em 97% dos casos. J�
 
 O ganho médio do modelo Full sobre o Base foi de 8.921 pontos, com ganho máximo de 15 pontos. Em relação ao modelo Small, o ganho médio foi menor (1.119), mas ainda significativo em casos específicos.
 
+### Distribuição de Scores
+
+As distribuições de pontuações entre os modelos podem ser visualizadas nos gráficos abaixo:
+
+**Full vs Base:**
+
+![Distribuição de Scores Full vs Base](https://raw.githubusercontent.com/pedroVelosoFernandes/InstructionTunning-LLmAsJudge/main/data/images/distribuicaoScoresFB.png)
+
+**Full vs Small:**
+
+![Distribuição de Scores Full vs Small](https://raw.githubusercontent.com/pedroVelosoFernandes/InstructionTunning-LLmAsJudge/main/data/images/distribuicaoScoresFS.png)
+
 ### Análise Qualitativa
 
 Para compreender melhor as diferenças de desempenho, analisamos casos específicos onde os modelos apresentaram comportamentos distintos.
