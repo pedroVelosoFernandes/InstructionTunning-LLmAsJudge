@@ -117,11 +117,11 @@ As curvas de treinamento e validação podem ser observadas nos gráficos abaixo
 
 **Modelo Full (1000 instruções):**
 
-![Loss Plot Full Model](data/analysis/loss-plot-full-model.png)
+![Loss Plot Full Model](https://raw.githubusercontent.com/pedroVelosoFernandes/InstructionTunning-LLmAsJudge/main/data/images/loss-plot-full-model.png)
 
 **Modelo Small (500 instruções):**
 
-![Loss Plot Small Model](data/analysis/loss-plot-small-model.png)
+![Loss Plot Small Model](https://raw.githubusercontent.com/pedroVelosoFernandes/InstructionTunning-LLmAsJudge/main/data/images/loss-plot-small-model.png)
 
 ------------------------------------------------------------------------
 
