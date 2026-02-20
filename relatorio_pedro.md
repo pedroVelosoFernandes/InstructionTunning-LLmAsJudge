@@ -74,7 +74,7 @@ exemplo:
 
 ### Primeira Tentativa: Problema com o Conhecimento do Modelo
 
-Inicialmente, tentei treinar o modelo apenas com as instruções que criei. A ideia era que o fine-tuning seria suficiente para ensinar o GPT-2 a seguir instruções. O problema foi que o GPT-2 não tem conhecimento factual sobre notícias — mesmo notícias antigas não fazem parte do que ele aprendeu no pré-treinamento. Como o modelo não tinha essa base de conhecimento sobre jornalismo, o fine-tuning de instruções sozinho não conseguiu compensar.
+Inicialmente, tentei treinar o modelo apenas com as instruções que criei. A ideia era que o fine-tuning seria suficiente para ensinar o GPT-2 a seguir instruções. O problema foi que o GPT-2 não tem conhecimento factual sobre notícias, mesmo notícias antigas não fazem parte do que ele aprendeu no pré-treinamento. Como o modelo não tinha essa base de conhecimento sobre jornalismo, o fine-tuning de instruções sozinho não conseguiu compensar.
 
 O resultado foi ruim: **validation loss ficou em torno de 2.2** e as respostas eram muito instáveis e inconsistentes. Isso mostra que o fine-tuning de instruções funciona melhor quando os dados de treino estão próximos do conhecimento que o modelo já possui.
 
